@@ -1,3 +1,6 @@
-function x = subtract(x)
-x = sub(varargin{:});
+function x = subtract(a,b)
+%%
+% This function calculates substraction
+%%
+x = a-b;
 end
